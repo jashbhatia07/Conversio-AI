@@ -1,4 +1,4 @@
-# LLM-based Voice Assistant 
+# Conversio AI 
 This is an AI Voice Assistant based on Large Language Models. A user can interact with the Voice Assistant in natural language, currently English. 
 
 The implementation brings various deep learning models together: 
